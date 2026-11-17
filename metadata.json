@@ -1,0 +1,6 @@
+{
+  "name": "Shree Gurudatt Washing Center - Loyalty & Rewards",
+  "description": "Customer QR loyalty card, OTP login, 10-wash stamp tracker, and owner rewards dashboard for Shree Gurudatt Washing Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
